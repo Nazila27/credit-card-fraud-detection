@@ -104,8 +104,6 @@ credit-card-fraud-detection/
 
 ## 👤 Author
 Nazila Roudini
-د
-ٔشظه
 
 **Nazila Rdi**
 
