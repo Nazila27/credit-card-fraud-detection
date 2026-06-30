@@ -105,6 +105,5 @@ credit-card-fraud-detection/
 ## 👤 Author
 Nazila Roudini
 
-**Nazila Rdi**
 
 This project was created as part of my Data Analytics & Machine Learning portfolio.
